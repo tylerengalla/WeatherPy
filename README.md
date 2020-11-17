@@ -5,8 +5,8 @@ Jack needs help answering a question: How might we provide real-time suggestions
 
 Here's an outline of our project plan:
 
-Task: Collect and analyze weather data across cities worldwide.
+**Task**: Collect and analyze weather data across cities worldwide.
 
-Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+**Purpose**: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 
-Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+**Method**: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data using Python, Jupyter Notebook, and API Calls. 
