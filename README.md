@@ -10,3 +10,11 @@ Here's an outline of our project plan:
 **Purpose**: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 
 **Method**: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data using Python, Jupyter Notebook, and API Calls. 
+
+![](/images/weatherAnalysis1)
+
+![](/images/weatherAnalysis2)
+
+![](/images/weatherAnalysis3)
+
+![](/images/weatherAnalysis4)
