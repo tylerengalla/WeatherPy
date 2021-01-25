@@ -11,10 +11,10 @@ Here's an outline of our project plan:
 
 **Method**: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data using Python, Jupyter Notebook, and API Calls. 
 
-![](/images/weatherAnalysis1)
+![](/images/weatherAnalysis1.png)
 
-![](/images/weatherAnalysis2)
+![](/images/weatherAnalysis2.png)
 
-![](/images/weatherAnalysis3)
+![](/images/weatherAnalysis3.png)
 
-![](/images/weatherAnalysis4)
+![](/images/weatherAnalysis4.png)
